@@ -1,0 +1,13 @@
+title: DEEZrezzed
+originalAuthor: danimalforlife
+description: WARNING YOU WILL GET D's
+
+assets:
+- name: remastered\obj\F_TR160.mdlx\-6.dds
+  method: copy
+  source:
+  - name: texture\horny.dds
+- name: remastered\obj\F_TR160.a.us\voice\battle\us\tr_computer
+  method: copy
+  source:
+  - name: voice\horny
